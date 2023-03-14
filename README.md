@@ -1,2 +1,3 @@
-# Predicting category of transaction through sentiment analysis
-Link to website skeleton: https://kkw002.github.io/
+# Predicting category of transaction through Natural Language Processing
+
+Link to website: https://kkw002.github.io/
