@@ -2,10 +2,6 @@ body {
     margin: 55px auto;
     width: 45%;
 }
-.image{
-    margin: 55px auto;
-    width: 45%;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
